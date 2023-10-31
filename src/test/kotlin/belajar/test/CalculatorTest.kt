@@ -1,4 +1,4 @@
-package belajar.kotlin.unit.test
+package belajar.test
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.Assertions.assertEquals

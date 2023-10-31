@@ -1,4 +1,4 @@
-package belajar.kotlin.unit.test
+package belajar.test
 
 class Calculator {
     fun add(first: Int, second: Int): Int {
